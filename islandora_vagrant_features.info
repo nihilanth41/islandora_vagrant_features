@@ -6,4 +6,5 @@ dependencies[] = strongarm
 features[ctools][] = strongarm:strongarm:1
 features[features_api][] = api:2
 features[variable][] = islandora_book_ingest_derivatives
+features[variable][] = islandora_openseadragon_djatoka_url
 features[variable][] = islandora_paged_content_djatoka_url
